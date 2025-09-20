@@ -22,8 +22,8 @@ This was my first Frontend Mentor project where i built a simple QR code compone
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/Rao-Aqsa/qr-code-project)
+- Live Site URL: [Live Demo](https://rao-aqsa.github.io/qr-code-project/)
 
 
 ### Built with
